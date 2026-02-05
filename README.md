@@ -162,7 +162,7 @@ The value of this analysis lies in moving beyond descriptive statistics to answe
 
 | Metric | Description | Insight
 |--------------|-------------|----------------|
-| Absolute Growth	2022 | 1970 population	| Highlights scale effects
+| Absolute Growth | 2022-1970 population	| Highlights scale effects
 | Growth Rate	| Relative population change | Enables fair regional comparison
 | Continent Averages | Mean growth by region | Identifies macro trends
 | Outliers | Extreme growth values | Flags investigation needs
