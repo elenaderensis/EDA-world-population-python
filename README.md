@@ -7,14 +7,10 @@ End-to-end Python exploratory data analysis identifying key population growth pa
 This Python-based exploratory data analysis investigates global population trends over time to identify growth dynamics, regional disparities, and data quality considerations that support data-driven strategic planning and policy analysis.
 
 Key outcomes:
-
-Identified Africa as the fastest-growing continent by relative population growth rate, despite Asia having the highest absolute population increase
-
-Revealed significant heterogeneity across continents, highlighting the importance of normalized KPIs over raw population figures
-
-Detected outlier countries with extreme growth patterns requiring deeper demographic or data validation analysis
-
-Analyzed population data spanning multiple decades (1970–2022) across countries and continents
+- Identified Africa as the fastest-growing continent by relative population growth rate, despite Asia having the highest absolute population increase
+- Revealed significant heterogeneity across continents, highlighting the importance of normalized KPIs over raw population figures
+- Detected outlier countries with extreme growth patterns requiring deeper demographic or data validation analysis
+- Analyzed population data spanning multiple decades (1970–2022) across countries and continents
 
 Project Resources: [View Jupyter Notebook](https://github.com/elenaderensis/EDA-world-population-python/blob/main/Pandas%20-%20EDA.ipynb) | [Download Dataset](https://github.com/elenaderensis/EDA-world-population-python/blob/main/world_population.csv)
 
